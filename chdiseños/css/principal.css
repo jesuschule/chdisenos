@@ -40,9 +40,9 @@ article.row{background-color:gray; }
     font-size: 40px;
     margin-top: 0;
     margin-bottom: 15px; }
- #acerca p::selection{background:#FCB73E;  }
+ #acerca p::selection{background:white;  }
      #acerca p::first-line{ }
-      #acerca p::first-letter{color:#fff;font-size:26px;}
+      #acerca p::first-letter{color:orange;font-size:26px;}
   #acerca p{padding:40px;text-indent: 2em;text-align:justify;   }
 
 /*banner*/
