@@ -82,7 +82,7 @@ width:20%;width: 100%; }
 .cajasdos p{text-align:center;width:100%;  }
 .cajados h6{width:100%; }
 h6{font-size:2em;text-align:center;   }
-#galeria{height:auto;margin:0;padding:0;background-color: rgba(4, 0, 255, 0.35);background-attachment:fixed;  }
+#galeria{height:auto;margin:0;padding:0;background-attachment:fixed;  }
 #galeria h1{color:white;padding-bottom:4em; }
 .carousel img{border:4px solid white;}
 #contacto{height:auto; }
